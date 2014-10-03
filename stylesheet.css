@@ -1,0 +1,141 @@
+.header
+{
+    padding: 0 0 10px;
+    margin: 0;
+}
+
+
+.objective
+{
+    
+    font-style: italic;
+    text-align: justify;
+    color: #555555;
+    font-size: 12px;
+    width: 75%;
+}
+
+.details
+{
+    width: 600px;
+    float: right;
+    border-left: 2px solid #999999;
+    margin: 20px;
+    padding: 0 10px;
+    
+}
+
+
+.subheading
+{
+    font-size:14px;
+    padding: 0;
+    margin: 0;
+    width: 610px;
+    text-align: left;
+}
+
+
+.category
+{
+    text-align: right;
+    font-style: italic;
+    font-weight: bold;
+    width: 245px;
+    padding: 18px 0 0 0;
+    margin: 0 0 10px;
+}
+
+
+#contact
+{
+    font-size:14px;
+    padding: 0;
+    margin: 0 0 0 0;
+    width: 50%;
+    text-align: left;
+}
+
+#content
+{
+    width: 900px;
+    height: 1040px;
+    padding: 20px;
+    margin: auto;
+    background-image: url(http://www.pixeden.com/media/k2/galleries/131/004-subtle-light-pattern-background-texture.jpg);
+}
+
+
+#address
+{
+    font-size: 12px;
+    padding: 0 0 0 182px;
+    text-align: right;
+    font-style: italic;
+    color: #999999;
+    display: inline;
+}
+
+
+img
+{
+    border: 5px solid white;
+    float: right;
+    box-shadow: -10px 10px 25px #888888;
+    width: 20%;
+    height: 20%;
+    position: relative;
+    z-index: 1;
+    background-color: #999999;
+
+}
+
+hr
+{
+    padding: 0;
+    margin:  8px 0 0 0;
+    width: 910px;
+    position: absolute;
+}
+
+
+ul
+{
+    font-size:14px;
+    padding: 0;
+    margin: 0 18px;
+    width: 590px;
+    text-align: left;
+}
+
+
+ol
+{
+    font-size:14px;
+    padding: 0;
+    margin: 0 18px;
+    width: 590px;
+    text-align: left; 
+}
+
+
+h5
+{
+    font-size:14px;
+    padding: 0;
+    margin: 0;
+    width: 500px;
+    text-align: left;
+}
+
+td
+{
+    vertical-align: top;    
+}
+
+
+
+*
+{
+    font-family: Century Gothic, Calibri, Candara, Sans Serif;
+}
